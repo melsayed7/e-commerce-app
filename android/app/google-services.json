@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841031060926",
+    "project_id": "shop-getx",
+    "storage_bucket": "shop-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841031060926:android:b3dd6c3524543b7f0a3def",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841031060926-ekq8i02arcvcek2kse7kedgsb502d876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQnP4-M7qfTl4g3uIRWWBohVdjEuieHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841031060926-ekq8i02arcvcek2kse7kedgsb502d876.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
